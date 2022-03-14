@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Artyrka01/HelloPlayer
+build-by-default: true
+branches:
+- main
+projects: []
+...
